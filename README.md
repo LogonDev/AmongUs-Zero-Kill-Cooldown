@@ -5,7 +5,7 @@
 Impostor server mod that reduces the kill cooldown to zero seconds. 
 
 ## How to install 
-1. Download and install Impostor server v1.2.2 or newer. This mod was built for Among Us version 2020.9.22
+1. Download and install [Impostor server](https://github.com/Impostor/Impostor) v1.2.2 or newer. This mod was built for Among Us version 2020.9.22
 2. Put the AmongUsZeroKillCooldown.dll in the plugins folder of Impostor server
 ![](docs/images/pluginsLocation.png)
 3. Make sure the clients have followed the client instructions and have typed the correct IP address of your server 
